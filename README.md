@@ -19,7 +19,11 @@ A dashboard is only as reliable as the data behind it. Data Engineering builds t
 
 ## LinkedIn Article
 
-[Read my article]([https://www.linkedin.com/pulse/behind-every-insight-data-engineering-maheeshwar-ravula-pvhaf])
+
+## LinkedIn Article
+
+[Read my article](https://www.linkedin.com/pulse/behind-every-insight-data-engineering-maheeshwar-ravula-pvhaf)
+
 
 ## References
 
